@@ -1,6 +1,6 @@
 // var playlist = {artistName: 'songTitle' }
 var playlist = {
-  playlist: 'Slowdive',
+  // playlist: 'Slowdive',
   artistName: 'Phil Ochs',
   songTitle: 'My Bloody Valentine'
 }
